@@ -6,6 +6,7 @@
 **Phone number:** +38(073)131-66-90  
 
 **Brief information about me:**
+
 At the moment I am working in the banking sector as an economist, but there is a great desire to study and start working as a frontend developer. I learn new things very quickly.  
 
 **Skills:** 
@@ -13,7 +14,7 @@ At the moment I am working in the banking sector as an economist, but there is a
 - functional testing.  
 
 **Courses completed:**
-«Basic WEB and SQL for software testing» (SkillUp)
-Software Testing Fundamentals (QATestLab)  
+- «Basic WEB and SQL for software testing» (SkillUp)
+- Software Testing Fundamentals (QATestLab)  
 
 **English level:** intermediate (B1)
